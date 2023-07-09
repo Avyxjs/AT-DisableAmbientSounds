@@ -15,4 +15,4 @@ version     '1.0.0'
 
 --- Client Information ---
 
-client_script 'client/*.lua'
+client_script 'client.lua'
