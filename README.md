@@ -1,5 +1,5 @@
           ----- For support -----
----- https://discord.gg/jbdevelopment  ----
+---- https://discord.gg/artificialdev  ----
 
 # THIS WILL REMOVE ALL UNECESSARY SOUNDS AROUND THE CITY, ESPECIALLY THOSE ANNOYING GUN SHOT SOUNDS IN AMMU-NATION.
 
