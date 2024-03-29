@@ -1,5 +1,5 @@
         ----- For support -----
----- https://discord.gg/jbdevelopment  ----
+---- https://discord.gg/  ----
 
 --- FX INFORMATION ---
 
