@@ -9,7 +9,7 @@ lua          "54"
 
 -- Resource Information --
 
-author      'JB Development'
+author      'Duxii Codes'
 description 'Disable Ambient GTA 5 Sounds'
 version     '1.0.0'
 
